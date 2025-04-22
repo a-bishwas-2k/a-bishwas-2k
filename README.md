@@ -14,11 +14,7 @@
 <!-- ############################ ABOUT ############################# -->
 <h2 align="center">🌟 <b>About Me</b></h2>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-</div>
-
-<p align="center">
+ <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=00FF00&center=true&width=500&lines=Full-Stack+Developer;Open-Source+Contributor;Problem+Solver;Tech+Enthusiast" alt="About Me Animation">
 </p>
 
@@ -26,10 +22,6 @@
  
 <!-- ############################ TECH STACK ############################# -->
 <h2 align="center">🚀 <b>Tech Stack</b></h2>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-</div>
 
 <h3 align="center">Languages</h3>
 <p align="center">
