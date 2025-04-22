@@ -19,10 +19,7 @@
 </p>
 
 <!-- ############################ SECTION SEPARATOR 2 ############################# -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/inputs/input-assets/separator.gif" width="100%">
-</div>
-
+ 
 <!-- ############################ TECH STACK ############################# -->
 <h2 align="center">🚀 <b>Tech Stack</b></h2>
 
