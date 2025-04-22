@@ -1,11 +1,11 @@
 <!-- ############################ HEADER ############################# -->
 <div align="center">
 
-<!-- WORKING ANIMATED TYPING TITLE -->
+<!-- WORKING TYPING ANIMATION -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=00FF00&center=true&width=1000&lines=Hey+%F0%9F%91%8B+I'm+Abhishek;Full-Stack+Developer%F0%9F%9A%80;Open-Source+Enthusiast%E2%9D%A4%EF%B8%8F;Debugging+Ninja%F0%9F%A5%B7" alt="Typing Animation">
 
 <!-- ANIMATED TECH GIF -->
-<img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="800px">
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee.svg" width="100%">
 
 </div>
 
@@ -46,6 +46,11 @@
 
 </div>
 
+<!-- ############################ SNAKE ANIMATION ############################# -->
+<div align="center">
+  <img src="https://github.com/a-bishwas-2k/a-bishwas-2k/blob/output/github-contribution-grid-snake.svg" alt="Snake eating contributions" width="100%">
+</div>
+
 <!-- ############################ STATS ############################# -->
 <h2 align="center">📊 <b>GitHub Stats</b></h2>
 
@@ -81,6 +86,3 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&animation=twinkling">
 </div>
-
-
-![Snake animation](https://github.com/a-bishwas-2k/a-bishwas-2k/blob/output/github-contribution-grid-snake.svg)
