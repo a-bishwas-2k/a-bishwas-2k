@@ -2,10 +2,10 @@
 <div align="center">
 
 <!-- WORKING TYPING ANIMATION -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=00FF00&center=true&width=1000&lines=Hey+%F0%9F%91%8B+I'm+Abhishek;Full-Stack+Developer%F0%9F%9A%80;Open-Source+Enthusiast%E2%9D%A4%EF%B8%8F;Debugging+Ninja%F0%9F%A5%B7" alt="Typing Animation">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=00FF00&center=true&width=1000&lines=Hey+%F0%9F%91%8B+I'm+Abhishek;Full-Stack+Developer%F0%9F%9A%80;Open-Source+Enthusiast%E2%9D%A4%EF%B8%8F;" alt="Typing Animation">
 
 <!-- WORKING ANIMATED TECH GIF -->
-<img src="https://github.com/a-bishwas-2k/a-bishwas-2k/assets/76626545/3d6a4d6e-21c4-4d4f-9a0f-7c5daf6a4a6a" width="100%">
+<img src="[https://github.com/a-bishwas-2k/a-bishwas-2k/assets/76626545/3d6a4d6e-21c4-4d4f-9a0f-7c5daf6a4a6a](https://pngimg.com/d/github_PNG23.png)" width="100%">
 
 </div>
 
@@ -88,10 +88,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=a-bishwas-2k&theme=onedark&no-frame=true&column=7">
 </div>
 
-<!-- ############################ SECTION SEPARATOR 5 ############################# -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" width="100%">
-</div>
+ 
 
 <!-- ############################ CONTACT ############################# -->
 <h2 align="center">📫 <b>Connect With Me</b></h2>
@@ -103,7 +100,7 @@
   <a href="https://github.com/a-bishwas-2k">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="http://www.linkedin.com/in/abhishek-9k96)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
