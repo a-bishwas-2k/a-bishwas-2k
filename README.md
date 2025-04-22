@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=00FF00&center=true&width=1000&lines=Hey+%F0%9F%91%8B+I'm+Abhishek;Full-Stack+Developer%F0%9F%9A%80;Open-Source+Enthusiast%E2%9D%A4%EF%B8%8F;" alt="Typing Animation">
 
 <!-- WORKING ANIMATED TECH GIF -->
-<img src=" https://pngimg.com/uploads/github/github_PNG23.png" width="100%">
+<img src="https://pngimg.com/uploads/github/github_PNG23.png" width="100%">
 
 </div>
 
