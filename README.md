@@ -29,3 +29,32 @@ class CyberDev:
 
 hacker = CyberDev()
 print(hacker.mission())
+<!-- ############################ TECH STACK ############################# -->
+⚡ TECH STACK
+CORE WEAPONS
+C
+C++
+Python
+JavaScript
+
+WEB WARFARE
+React
+Next JS
+Firebase
+
+HACKER TOOLS
+Postman
+Git
+
+<!-- ############################ STATS ############################# -->
+📊 CYBER STATS
+<!-- ANIMATED GRID LAYOUT --><table> <tr> <td> <img src="https://github-readme-stats.vercel.app/api?username=a-bishwas-2k&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_color=00FF00"/> </td> <td> <img src="https://github-readme-streak-stats.herokuapp.com/?user=a-bishwas-2k&theme=dark&border=00FF00"/> </td> </tr> <tr> <td colspan="2"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=a-bishwas-2k&theme=react-dark&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF"/> </td> </tr> </table><!-- ############################ TROPHIES ############################# -->
+� CYBER TROPHIES
+
+
+<!-- ############################ CONTACT ############################# -->
+📡 CYBER CONNECT
+<p align="center"> <a href="mailto:a.bishwas2000@gmail.com"> <img src="https://img.shields.io/badge/GMAIL-HACK%20ME-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://github.com/a-bishwas-2k"> <img src="https://img.shields.io/badge/GITHUB-INFILTRATE-100000?style=for-the-badge&logo=github&logoColor=white"/> </a> </p><!-- ############################ FOOTER ############################# --><div align="center"><!-- TERMINAL SCAN EFFECT --><img src="https://readme-jokes.vercel.app/api?bgColor=%23000&borderColor=%2300ff00&textColor=%2300ff00" width="80%"/><!-- MATRIX WAVING FOOTER -->
+footer
+
+</div> ```
