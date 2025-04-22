@@ -1,22 +1,31 @@
-<!-- 🧠 CRAZY README STARTS HERE -->
+<!-- ############################ HEADER ############################# -->
+<div align="center">
 
-<!-- 🔥 Animated Banner -->
-<p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=origin&text1=Abhishek&text2=The%20Debugger%20Who%20Codes%20🔥&width=900&height=400" alt="banner" />
-</p>
+<!-- GLITCHING TITLE WITH MATRIX EFFECT -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=40&duration=3000&pause=500&color=00FF00&background=000000&center=true&vCenter=true&width=1000&lines=HEY+👾+I'M+ABHISHEK;FULL-STACK+DEV💻;CYBERPUNK+DEBUGGER🛸;OPEN-SOURCE+HACKER❤️)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=a-bishwas-2k&label=👀%20Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+![matrix-code](https://github.com/a-bishwas-2k/a-bishwas-2k/assets/76626545/3d6a4d6e-21c4-4d4f-9a0f-7c5daf6a4a6a)
 
-<!-- 😂 Jokes Section -->
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%230D1117&textColor=%23ffffff&aColor=%23ff6b81" width="800" height="100" alt="jokes" />
-</p>
+<!-- ANIMATED DIVIDER -->
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
 
----
+</div>
 
-```diff
-+ Hey! I'm Abhishek 👨‍💻
-! Full-stack Dev | Tech Explorer | Pixel Artist in Terminal 🎮
-- Bug hunter by day, coffee-fueled dreamer by night ☕
+<!-- ############################ ABOUT ############################# -->
+## 🌀 **CYBER PROFILE**  
+```python
+#!/usr/bin/python3
+# CYBER-INFILTRATION PROTOCOL
+
+class CyberDev:
+    def __init__(self):
+        self.name = "ABHISHEK"
+        self.role = "FULL-STACK CYBERPUNK"
+        self.stack = ["REACT⚡", "NEXT.JS🔥", "PYTHON🐍", "FIREBASE💥"]
+        self.skills = ["CODE INJECTION", "DEBUGGING", "OPEN-SOURCE WARRIOR"]
+    
+    def mission(self):
+        return "🚀 DEPLOYING: https://github.com/a-bishwas-2k/personal-portfolio"
+
+hacker = CyberDev()
+print(hacker.mission())
