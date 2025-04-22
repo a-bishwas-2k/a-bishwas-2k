@@ -71,11 +71,7 @@
 </div>
 
 <!-- ############################ SECTION SEPARATOR 4 ############################# -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/main/svg/dev/misc/board.svg" width="100%">
-</div>
-
-<!-- ############################ TROPHIES ############################# -->
+ <!-- ############################ TROPHIES ############################# -->
 <h2 align="center">🏆 <b>Achievements</b></h2>
 
 <div align="center">
@@ -94,7 +90,7 @@
   <a href="https://github.com/a-bishwas-2k">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="http://www.linkedin.com/in/abhishek-9k96)">
+  <a href="http://www.linkedin.com/in/abhishek-9k96">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
